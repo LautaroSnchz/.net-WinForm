@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfIngresante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ingresante>
+    <Nombre>lucca</Nombre>
+    <Direccion>m quiros</Direccion>
+    <Edad>22</Edad>
+    <Genero>Masculino</Genero>
+    <Pais>Argentina</Pais>
+    <Curso>
+      <string>C#</string>
+    </Curso>
+    <Cuit>20-43715172-6</Cuit>
+  </Ingresante>
+</ArrayOfIngresante>

@@ -1,0 +1,61 @@
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\TrabajoFinal.exe.config
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\TrabajoFinal.exe
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\TrabajoFinal.pdb
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\obj\Debug\TrabajoFinal.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\obj\Debug\TrabajoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\obj\Debug\TrabajoFinal.Form1.resources
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\obj\Debug\TrabajoFinal.Properties.Resources.resources
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\obj\Debug\TrabajoFinal.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\obj\Debug\TrabajoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\obj\Debug\TrabajoFinal.exe
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\obj\Debug\TrabajoFinal.pdb
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\obj\Debug\TrabajoFinal.MDI.resources
+C:\Users\Usuario\Desktop\lucca\TEC. SUPERIOR EN PROGRAMACION\SEGUNDO AÑO\PROGRAMACION III\TrabajoFinal\TrabajoFinal\TrabajoFinal\obj\Debug\TrabajoFinal.csproj.CopyComplete
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\TrabajoFinal.exe.config
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\TrabajoFinal.exe
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\TrabajoFinal.pdb
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\System.Buffers.dll
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\System.Memory.dll
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\System.Text.Json.dll
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\System.ValueTuple.dll
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\System.Buffers.xml
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\System.Memory.xml
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\System.Text.Json.xml
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\bin\Debug\System.ValueTuple.xml
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\obj\Debug\TrabajoFinal.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\obj\Debug\TrabajoFinal.Form1.resources
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\obj\Debug\TrabajoFinal.MDI.resources
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\obj\Debug\TrabajoFinal.Properties.Resources.resources
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\obj\Debug\TrabajoFinal.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\obj\Debug\TrabajoFinal.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\obj\Debug\TrabajoFinal.csproj.CopyComplete
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\obj\Debug\TrabajoFinal.exe
+C:\Users\usuario\Documents\lautaro\proyectoWinForms\obj\Debug\TrabajoFinal.pdb
