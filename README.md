@@ -1,5 +1,5 @@
 # .net-WinForm
-Windows Form y conexion a base de datos SQL
+WinForm y conexion a base de datos SQL
 
 /*El formulario captura datos del usuario, como nombre, dirección, edad, CUIT, género, cursos seleccionados y país.
 
